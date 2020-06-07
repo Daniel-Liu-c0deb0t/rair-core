@@ -1,0 +1,1 @@
+initSidebarItems({"struct":[["IST","Interval Query data type based on augmented binary search tree, written as IST but pronounced 'Interval Search Tree'. IST is balanced using [RBTree]."],["ISTIterator","Iterator for [IST]"],["ISTRefIterator","Iterator for [IST] reference"]]});
